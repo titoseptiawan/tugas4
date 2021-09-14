@@ -1,0 +1,51 @@
+h1,h2 {
+    border-bottom : solid 2px #000;
+    padding-bottom : 20px;
+    color : rgb(10, 20, 50);
+  }
+  .form {
+    font-size: 1.2em;
+    font-weight: bold;
+    border : solid 1px #000;
+    width : 350px;
+    padding : 10px 20px;  
+    margin-bottom : 20px;
+    border-radius: 12px;
+  }
+  
+  .form input[type=submit] {
+    margin-top : 20px;  
+    margin-bottom : 10px;
+    margin-left : 20px;
+    border-radius: 12px;
+  }
+  
+  .inputBilangan {
+    padding : 10px 20px;
+    border-radius: 12px;  
+  }
+  
+  .form label {
+    width : 100px;
+    display: inline-block;
+    border-radius: 12px;
+  }
+  
+  .form input {
+    padding : 10px;
+    border-radius: 12px;
+  }
+
+  button.gradient {
+    background-image: linear-gradient(orange, red);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px; 
+  }
