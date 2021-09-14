@@ -26,3 +26,13 @@ Dihasilkan dari Bilangan 1 X Bilangan 2
 - Pembagian
 Dihasilkan dari Bilangan 1 : Bilangan 2
 
+## Struktur
+Untuk lebih jelasnya simak lampiran berikut ini.
+
+Lampiran Penjelasan/ Contoh penggunaan Kalkulator Sederhana: 
+![image](https://user-images.githubusercontent.com/90549582/133287712-9ed339ed-13cd-4553-8359-12b203a5c85e.png)
+![image](https://user-images.githubusercontent.com/90549582/133287901-fe812484-6886-4774-99ad-a55632f95f1d.png)
+
+Credit:
+IG: @titoseptiawan 
+https://www.instagram.com/titoseptiawan/ 
